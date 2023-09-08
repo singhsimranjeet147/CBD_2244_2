@@ -1,2 +1,2 @@
 # CBD_2244_2
-DevOps class activities
+DevOps Class Activities
